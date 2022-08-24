@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "j7ct80S/2PO16DKAmM5WUQQLjJl2qKyR0p8jKsK0WyIV0kGgElD0RpSV3d9/tZQeWsNn8vsj5a5fmawJAA6Zcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\terro\\workspace\\csharp\\AddressBook\\AddressBook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\terro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

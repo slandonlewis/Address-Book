@@ -1,0 +1,16 @@
+C:\Users\terro\workspace\csharp\AddressBook\bin\Debug\net5.0\AddressBook.exe
+C:\Users\terro\workspace\csharp\AddressBook\bin\Debug\net5.0\AddressBook.deps.json
+C:\Users\terro\workspace\csharp\AddressBook\bin\Debug\net5.0\AddressBook.runtimeconfig.json
+C:\Users\terro\workspace\csharp\AddressBook\bin\Debug\net5.0\AddressBook.runtimeconfig.dev.json
+C:\Users\terro\workspace\csharp\AddressBook\bin\Debug\net5.0\AddressBook.dll
+C:\Users\terro\workspace\csharp\AddressBook\bin\Debug\net5.0\AddressBook.pdb
+C:\Users\terro\workspace\csharp\AddressBook\obj\Debug\net5.0\AddressBook.csproj.AssemblyReference.cache
+C:\Users\terro\workspace\csharp\AddressBook\obj\Debug\net5.0\AddressBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\terro\workspace\csharp\AddressBook\obj\Debug\net5.0\AddressBook.AssemblyInfoInputs.cache
+C:\Users\terro\workspace\csharp\AddressBook\obj\Debug\net5.0\AddressBook.AssemblyInfo.cs
+C:\Users\terro\workspace\csharp\AddressBook\obj\Debug\net5.0\AddressBook.csproj.CoreCompileInputs.cache
+C:\Users\terro\workspace\csharp\AddressBook\obj\Debug\net5.0\AddressBook.dll
+C:\Users\terro\workspace\csharp\AddressBook\obj\Debug\net5.0\refint\AddressBook.dll
+C:\Users\terro\workspace\csharp\AddressBook\obj\Debug\net5.0\AddressBook.pdb
+C:\Users\terro\workspace\csharp\AddressBook\obj\Debug\net5.0\AddressBook.genruntimeconfig.cache
+C:\Users\terro\workspace\csharp\AddressBook\obj\Debug\net5.0\ref\AddressBook.dll
