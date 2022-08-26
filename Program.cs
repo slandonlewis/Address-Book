@@ -49,7 +49,8 @@ namespace AddressBook
         };
 
             // Insert an email that does NOT match a Contact
-            emails.Insert(1, "not.in.addressbook@email.com");
+            emails.Insert(3, "not.in.addressbook@email.com");
+            emails.Insert(4, "terrorzone03@gmail.com");
 
 
             //  Search the AddressBook by email and print the information about each Contact
@@ -65,7 +66,7 @@ namespace AddressBook
                 }
                 catch (KeyNotFoundException)
                 {
-                    Console.WriteLine("Contact not found");
+                    Console.WriteLine($"\nContact with email address '{email}' not found");
                 }
             }
         }
